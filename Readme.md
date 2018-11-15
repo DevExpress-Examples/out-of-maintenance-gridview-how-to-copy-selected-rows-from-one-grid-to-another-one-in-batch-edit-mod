@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/CopyValuesFromAnotherGrid/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/CopyValuesFromAnotherGrid/Controllers/HomeController.vb))
+* [Model.cs](./CS/CopyValuesFromAnotherGrid/Models/Model.cs) (VB: [Model.vb](./VB/CopyValuesFromAnotherGrid/Models/Model.vb))
+* [Helpers.js](./CS/CopyValuesFromAnotherGrid/Scripts/Helpers.js) (VB: [Helpers.js](./VB/CopyValuesFromAnotherGrid/Scripts/Helpers.js))
+* [_GridViewOrderListPartial.cshtml](./CS/CopyValuesFromAnotherGrid/Views/Home/_GridViewOrderListPartial.cshtml)
+* [_PredefinedItemsGridPartial.cshtml](./CS/CopyValuesFromAnotherGrid/Views/Home/_PredefinedItemsGridPartial.cshtml)
+* [Catalog.cshtml](./CS/CopyValuesFromAnotherGrid/Views/Home/Catalog.cshtml)
+* [Index.cshtml](./CS/CopyValuesFromAnotherGrid/Views/Home/Index.cshtml)
+* [_Layout.cshtml](./CS/CopyValuesFromAnotherGrid/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # GridView - How to copy selected rows from one grid to another one in batch edit mode
 
 
