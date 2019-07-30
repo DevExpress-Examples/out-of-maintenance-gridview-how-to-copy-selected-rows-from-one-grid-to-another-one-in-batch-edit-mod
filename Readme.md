@@ -12,7 +12,7 @@
 <!-- default file list end -->
 # GridView - How to copy selected rows from one grid to another one in batch edit mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t466784)**
+**[[Run Online]](https://codecentral.devexpress.com/t466784/)**
 <!-- run online end -->
 
 
