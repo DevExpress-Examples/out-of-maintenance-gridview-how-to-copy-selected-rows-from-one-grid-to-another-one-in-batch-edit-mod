@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128549845/15.2.4%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T466784)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -16,9 +11,6 @@
 * [_Layout.cshtml](./CS/CopyValuesFromAnotherGrid/Views/Shared/_Layout.cshtml)
 <!-- default file list end -->
 # GridView - How to copy selected rows from one grid to another one in batch edit mode
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t466784/)**
-<!-- run online end -->
 
 
 <p>This example demonstrate how to copy selected rows data from one grid to another one in batch edit mode with the possibility to remove the copied data without a request to the sever.<br><br>The copy functionality is implemented using the ASPxClientGridView.<a href="https://documentation.devexpress.com/aspnet/DevExpressWebScriptsASPxClientGridView_GetSelectedFieldValuestopic.aspx">GetSelectedFieldValues</a> method and various methods of the ASPxClientGridView.<a href="https://documentation.devexpress.com/aspnet/DevExpressWebScriptsASPxClientGridView_batchEditApitopic.aspx">batchEditApi</a> object. Refer to the following code snippet with the main function that copies row values:</p>
